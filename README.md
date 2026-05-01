@@ -85,6 +85,8 @@ Predict whether a customer will default (target = 1) or not (target = 0).
 - Dataset is **imbalanced**
 - Negative class (0) is **subsampled to 5%**
 - Each class 0 sample represents ~20 real samples
+<img width="306" height="390" alt="image" src="https://github.com/user-attachments/assets/94f67a8a-f0eb-4315-b526-24669673fc39" />
+
 <img width="597" height="455" alt="image" src="https://github.com/user-attachments/assets/3b484606-68f4-4b56-b0c6-41f3b55751b3" />
 
 ---
